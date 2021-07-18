@@ -1,0 +1,23 @@
+.login{
+
+ 
+ text-align:center;
+ border:10px solid brown;
+ 
+ margin-left: 250px;
+ margin-right: 250px;
+ padding-top: 100px;
+ padding-bottom: 400px;
+ background-color: burlywood;
+ 
+ 
+ 
+ 
+
+}
+body{
+    background-image: url(../../../web-protfolio2/images/r.webp);
+    background-repeat:no-repeat;
+    height: 100vh;
+    
+}
